@@ -2,7 +2,7 @@
 A secure RESTful backend API for managing personal tasks, built with Spring Boot, JWT authentication, and PostgreSQL.  Users can register, log in, and manage their own tasks through protected endpoints.
 
 ## Repository
-https://github.com/Jose-bastardo/task-manager
+https://github.com/Jose-bastardo/task-manager-api
 
 ## Tech Stack
 Java 17+  
